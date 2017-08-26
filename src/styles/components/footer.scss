@@ -1,0 +1,29 @@
+footer{
+	height:0.4rem;
+	width:100%;
+	position: absolute;
+	z-index:10;
+	bottom:0;
+	background:white;
+	
+	@include flexbox();
+
+	@include justify-content(space-around);
+	@include align-items(center);
+	a{
+		@include flexbox();
+		@include flex-direction(column);
+		color:rgb(105,105,105);
+		i{
+			@include flexbox();
+			@include justify-content(space-around);
+			font-size:0.16rem;
+		}
+		#tree{
+			font-size:0.26rem;
+		}
+		span{
+			font-size:0.12rem;
+		}
+	}
+}

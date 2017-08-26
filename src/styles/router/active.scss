@@ -1,0 +1,88 @@
+#active{
+	width:100%;
+	
+	.active_body{
+		width:100%;
+		background:rgb(244,244,244);
+
+		ul{
+			width:100%;
+			background:white;
+			// padding-top:0.1rem;
+			li{
+				padding-left:0.1rem;
+				.active_div{
+					@include flexbox();
+					img{
+						width:50%;
+						height:100%;
+					}
+					.active_box{
+						width:80%;
+						@include flexbox();
+						@include flex-direction(column);
+						@include justify-content(space-around);
+						h4{
+							padding-left:0.1rem;
+						}
+						span{
+							font-size:0.13rem;
+							padding-left:0.1rem;
+						}
+						.active_btn{
+							width:80%;
+							padding-left:0.1rem;
+							@include flexbox();
+							@include align-items(flex-end);
+							@include justify-content(space-between);
+							button{
+								display:inline-block;
+								background:black;
+								border:none;
+								color:white;
+								border-radius:3px;
+								padding:0.02rem 0.03rem;
+								font-size:0.12rem;
+							}
+							.active_price{
+								font-size:0.12rem;
+								p{
+									color:rgb(242, 184, 10);
+
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+.active_head{
+		width:100%;
+		overflow:auto;
+		background:#fff;
+		padding-bottom:0.1rem;
+		// overflow-x:scroll;
+		// overflow:hidden;
+		// overflow:hidden;
+		// @include flexbox();
+		ul{
+			@include flexbox();
+			// @include justify-content(space-between);
+			
+			padding-left:0.1rem;
+			margin-top:0.05rem;
+			// width:100%;
+			li{
+
+				width:2rem;
+				height:100%;
+				margin-right:0.06rem;
+				img{
+					width:2rem;
+					
+				}
+			}
+		}
+	}

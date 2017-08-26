@@ -1,0 +1,108 @@
+{
+    "pubu": [
+        {
+            "img2": "./src/img/pubu1.jpg",
+            "p": "习习清风的惬意午后 | 瓶花",
+            "li": "37021"
+        },
+        {
+            "img2": "./src/img/pubu2.jpg",
+            "p": "延长花朵观赏时间的其他巧思",
+            "li": "35023"
+        },
+        {
+            "img2": "./src/img/pubu3.jpg",
+            "p": "植物染 | 那些常用的燃料和颜色",
+            "li": "28851"
+        },
+        {
+            "img2": "./src/img/pubu4.jpg",
+            "p": "最美花店 |　静守初心安然前行",
+            "li": "57754"
+        },
+        {
+            "img2": "./src/img/pubu5.jpg",
+            "p": "古朴繁花的交错时光",
+            "li": "10984"
+        },
+        {
+            "img2": "./src/img/pubu6.jpg",
+            "p": "插一篮多彩缤纷的夏天",
+            "li": "24998"
+        }
+    ],
+    "list": [
+        {
+            "img": "./src/img/home_list1.png"
+        },
+        {
+            "img": "./src/img/home_list2.png"
+        },
+        {
+            "img": "./src/img/home_list3.png"
+        },
+        {
+            "img": "./src/img/home_list4.png"
+        },
+        {
+            "img": "./src/img/home_list5.png"
+        },
+        {
+            "img": "./src/img/home_list6.png"
+        },
+        {
+            "img": "./src/img/home_list7.png"
+        },
+        {
+            "img": "./src/img/home_list8.png"
+        }
+    ],
+    "rec": [
+        {
+            "img": "./src/img/nav1.jpg",
+            "p": "小熊花艺培训室",
+            "span": "已有44人订阅"
+        },
+        {
+            "img": "./src/img/nav2.jpg",
+            "p": "汪小桥儿",
+            "span": "已有6人订阅"
+        },
+        {
+            "img": "./src/img/nav3.jpg",
+            "p": "子妍",
+            "span": "已有10人订阅"
+        },
+        {
+            "img": "./src/img/nav4.jpg",
+            "p": "Zigam",
+            "span": "已有20人订阅"
+        }
+    ],
+    "selection": [
+        {
+            "img": "./src/img/nav1.jpg"
+        },
+        {
+            "img": "./src/img/nav2.jpg"
+        },
+        {
+            "img": "./src/img/nav3.jpg"
+        },
+        {
+            "img": "./src/img/nav4.jpg"
+        },
+        {
+            "img": "./src/img/nav5.jpg"
+        },
+        {
+            "img": "./src/img/nav6.jpg"
+        },
+        {
+            "img": "./src/img/nav7.jpg"
+        },
+        {
+            "img": "./src/img/nav8.jpg"
+        }
+    ]
+}

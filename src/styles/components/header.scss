@@ -1,0 +1,53 @@
+header{
+  width:100%;
+  height:0.44rem;
+  @include flexbox();
+  // @include flex(1);
+  @include align-items(center);
+  @include justify-content(center);
+  border-bottom:1px solid rgb(226, 225, 230);
+  a{
+    color:#999;
+    .home{
+      @include flexbox();
+      padding:0 0.2rem;
+      
+    }
+
+  }
+  i{
+
+  position:absolute;
+  right:5%;
+
+  }
+  .router-link-exact-active{
+    color:#333!important;
+  
+  }
+}
+
+.header{
+   width:100%;
+  height:0.44rem;
+  border-bottom:1px solid rgb(226, 225, 230);
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(space-around);
+  background:#fff;
+  
+  a{
+    // width:100%;
+    color:#333;
+     @include flexbox();
+     @include justify-content(space-around);
+     i{
+      font-size:0.2rem;
+     }
+  }
+  input{
+   font-size:0.12rem;
+   padding:0 0.2rem;
+   // padding-left:0.2rem;
+  }
+}

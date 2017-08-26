@@ -1,0 +1,95 @@
+.circle{
+	width:100%;
+	height:100%;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	background:#e2e1e6;
+	padding-bottom:0.8rem;
+	.card{
+		
+		width:100%;
+		.circle_card{
+			padding-bottom:0.05rem;
+			margin-top:0.03rem;
+			background:#fff;
+			.data{
+				width:100%;
+				// height:0.8rem;
+				@include flexbox();
+				@include justify-content(space-between);
+				// @include align-items(center);
+				padding:0.1rem;
+				img{
+					width:15%;
+					height:15%;
+					border-radius:50%;
+					// @include flex(1);
+				}
+				.circle_text{
+					// @include flex(1);
+					@include flexbox();
+					@include flex-direction(column);
+					@include justify-content(center);
+					// @include align-items(start);
+					span{
+						font-size:0.12rem;
+						color:#999;
+					}
+				}
+				s{
+					@include flex(1);
+					@include flexbox();
+					@include justify-content(flex-end);
+					// @include align-items(flex-start);
+					font-size:0.12rem;
+					color:#999;
+				}
+			}
+			.chat{
+				padding:0 0.1rem 0.1rem;
+				width:100%;
+				span{
+					font-size:0.12rem;
+					color:#999;
+				}
+				ul{
+					@include flexbox();
+					@include flex-wrap(wrap);
+					@include justify-content(space-between);
+					// @include flex(1);
+					width:100%;
+					li{
+						margin-top:0.05rem;
+						width:32%;
+						img{
+							width:100%;
+						}
+					}
+				}
+			}
+			.zan{
+				padding-bottom:0.1rem;
+				ul{
+					width:100%;
+					@include flexbox();
+					@include justify-content(space-around);
+					li{
+						width:100%;
+						text-align:center;
+						border-right:1px solid #e2e1e6;
+						
+						img{
+							padding-right:0.1rem;
+							width:25%;
+						}
+					}
+					li:last-child{
+							border:none;
+						}
+				}
+				
+			}
+		}
+		
+	}
+}

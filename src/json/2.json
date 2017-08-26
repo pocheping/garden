@@ -1,0 +1,54 @@
+{
+    "sites": [
+        {
+            "img": "./src/img/nav1.jpg",
+            "p": "Dried Flower & Perserved Flower",
+            "span": "关于那些永不凋零的花朵设计"
+        },
+        {
+            "img": "./src/img/nav2.jpg",
+            "p": "Plant Simple Life",
+            "span": "感悟花草间的极简人生"
+        },
+        {
+            "img": "./src/img/nav3.jpg",
+            "p": "Bride Bouquet",
+            "span": "新娘捧花特辑"
+        },
+        {
+            "img": "./src/img/nav4.jpg",
+            "p": "Basic Flower Course",
+            "span": "买花|养花|救花知识全汇总"
+        },
+        {
+            "img": "./src/img/nav5.jpg",
+            "p": "Vase Reformation Programme",
+            "span": "旧物改造花器的N种方案"
+        },
+        {
+            "img": "./src/img/nav6.jpg",
+            "p": "The Warm people & Story",
+            "span": "点亮我们生活的人与故事"
+        },
+        {
+            "img": "./src/img/nav7.jpg",
+            "p": "Floriculture Foundation",
+            "span": "花艺师必学的10个基础造型"
+        },
+        {
+            "img": "./src/img/nav8.jpg",
+            "p": "Wedding Inspiration",
+            "span": "婚礼策划灵感建议"
+        },
+        {
+            "img": "./src/img/nav9.jpg",
+            "p": "Top 10",
+            "span": "本周精选"
+        },
+        {
+            "img": "./src/img/nav10.jpg",
+            "p": "Constellation Flower",
+            "span": "本月星座花推荐"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "card": [
+        {
+            "img1": "./src/img/sanji.jpg",
+            "p": "花粉-712945",
+            "span1": "这家伙很懒，什么也没留",
+            "s": "2017-08-04",
+            "span2": "再见只是陌生人"
+        },
+        {
+            "img1": "./src/img/lufei.jpg",
+            "p": "花粉-曲终人散",
+            "span1": "喜欢是乍见之欢，爱是久处心安",
+            "s": "2017-08-04",
+            "span2": "最美的风景走的最急",
+            "img2": "./src/img/shop1.jpg"
+        },
+        {
+            "img1": "./src/img/zolo.jpg",
+            "p": "懿芹",
+            "span1": "在最美好的年纪做最喜欢的事！",
+            "s": "2017-08-04",
+            "span2": "昨天客人预订的几束一百多的花束"
+        }
+    ],
+    "image": [
+        {
+            "img1": "./src/img/home_wall1.jpg",
+            "img2": "./src/img/home_wall2.jpg",
+            "img3": "./src/img/home_wall3.jpg"
+        },
+        {
+            "img1": "./src/img/home_wall4.jpg",
+            "img2": "./src/img/home_wall5.jpg",
+            "img3": "./src/img/home_wall6.jpg"
+        },
+        {
+            "img1": "./src/img/home_wall7.jpg",
+            "img2": "./src/img/home_wall8.jpg",
+            "img3": "./src/img/home_wall9.jpg"
+        }
+
+    ]
+}

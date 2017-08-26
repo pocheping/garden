@@ -1,0 +1,152 @@
+{
+    "flower": [
+        {
+            "img": "./src/img/shop1.jpg",
+            "p": "公主花（南非）/1支",
+            "s": "",
+            "span": 85
+        },
+        {
+            "img": "./src/img/shop2.jpg",
+            "p": "红色针垫花（南非）/1支",
+            "s": "",
+            "span": 39
+        },
+        {
+            "img": "./src/img/shop3.jpg",
+            "p": "大刺芹（荷兰）/5支",
+            "s": "",
+            "span": 100
+        },
+        {
+            "img": "./src/img/shop4.jpg",
+            "p": "粉色帝王花（南非）/1支",
+            "s": "",
+            "span": 120
+        },
+        {
+            "img": "./src/img/shop5.jpg",
+            "p": "木百合（南非）/5支",
+            "s": "",
+            "span": 139
+        },
+        {
+            "img": "./src/img/shop6.jpg",
+            "p": "黄色针垫花/1支",
+            "s": "",
+            "span": 39
+        },
+        {
+            "img": "./src/img/shop7.jpg",
+            "p": "棉花（新西兰）/1支",
+            "s": "",
+            "span": 60
+        },
+        {
+            "img": "./src/img/shop8.jpg",
+            "p": "红色帝王花（南非）/1支",
+            "s": "",
+            "span": 120
+        }
+    ],
+    "flower1": [
+        {
+            "img": "./src/img/shop9.jpg",
+            "p": "小刺芹",
+            "s": "",
+            "span": 50
+        },
+        {
+            "img": "./src/img/shop10.jpg",
+            "p": "石竹球/5支",
+            "s": "",
+            "span": 28
+        },
+        {
+            "img": "./src/img/shop11.jpg",
+            "p": "鹤望兰/1支",
+            "s": "",
+            "span": 28
+        },
+        {
+            "img": "./src/img/shop12.jpg",
+            "p": "黄莹/5支",
+            "s": "",
+            "span": 8
+        },
+        {
+            "img": "./src/img/shop13.jpg",
+            "p": "蓝刺头",
+            "s": "",
+            "span": 125
+        },
+        {
+            "img": "./src/img/shop14.jpg",
+            "p": "小尤加利果/束",
+            "s": "",
+            "span": 68
+        },
+        {
+            "img": "./src/img/shop15.jpg",
+            "p": "大鸟叶/5支",
+            "s": "",
+            "span": 35
+        },
+        {
+            "img": "./src/img/shop16.jpg",
+            "p": "粉红水晶草/1束",
+            "s": "",
+            "span": 70
+        }
+    ],
+    "china": [
+        {
+            "img": "./src/img/shop17.jpg",
+            "p": "造作|双生陶瓷花瓶",
+            "s": "",
+            "span": 196
+        },
+        {
+            "img": "./src/img/shop18.jpg",
+            "p": "冰颜花瓶",
+            "s": "￥58",
+            "span": 48
+        },
+        {
+            "img": "./src/img/shop19.jpg",
+            "p": "水色冰清花瓶",
+            "s": "￥218",
+            "span": 128
+        },
+        {
+            "img": "./src/img/shop20.jpg",
+            "p": "叙白古风花瓶",
+            "s": "￥98",
+            "span": 68
+        },
+        {
+            "img": "./src/img/shop21.jpg",
+            "p": "“时光浅影”花瓶",
+            "s": "￥68",
+            "span": 48
+        },
+        {
+            "img": "./src/img/shop22.jpg",
+            "p": "海风贝花瓶（白色）",
+            "s": "",
+            "span": "65"
+        },
+        {
+            "img": "./src/img/shop23.jpg",
+            "p": "水纹波心花瓶",
+            "s": "￥68",
+            "span": 46
+        },
+        {
+            "img": "./src/img/shop24.jpg",
+            "p": "LOVE花瓶",
+            "s": "",
+            "span": 98
+        }
+    ]
+}

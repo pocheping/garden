@@ -1,0 +1,36 @@
+{
+    "nav": [
+        {
+            "img": "./src/img/store1.jpg",
+            "span": "鲜切花"
+        },
+        {
+            "img": "./src/img/store2.jpg",
+            "span": "干花"
+        },
+        {
+            "img": "./src/img/store3.jpg",
+            "span": "绿植"
+        },
+        {
+            "img": "./src/img/store4.jpg",
+            "span": "花器"
+        },
+        {
+            "img": "./src/img/store5.jpg",
+            "span": "好物"
+        },
+        {
+            "img": "./src/img/store6.jpg",
+            "span": "工具"
+        },
+        {
+            "img": "./src/img/store7.jpg",
+            "span": "书籍"
+        },
+        {
+            "img": "./src/img/store8.jpg",
+            "span": "更多"
+        }
+    ]
+}

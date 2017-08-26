@@ -1,0 +1,7 @@
+function DateDemo(){
+ var d, s="今天日期是：";
+ d = new Date();
+s += d.getMonth() + "/";
+s += d.getDate() + "/";
+s += d.getFullYear();
+return s;}
